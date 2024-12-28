@@ -16,3 +16,5 @@ Excited to share my recent project where I delved into **Supply Chain Analysis**
 - There’s room to improve model accuracy and incorporate advanced techniques like ensemble models or deep learning for forecasting.  
 
 📈 This project strengthened my expertise in data analysis, visualization, and supply chain optimization. 
+
+<a href="https://github.com/H4cksudo/SupplyChain_Analysis" target="_blank">Supply Chain Analysis on GitHub</a>
